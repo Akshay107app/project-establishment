@@ -1,4 +1,4 @@
-# project-establishment
+# College Project
 
 # Japan Tokyo Olympic Azure Data Engineering Project
 
